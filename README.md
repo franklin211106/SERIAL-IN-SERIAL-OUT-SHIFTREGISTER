@@ -1,6 +1,8 @@
+# NAME:FRANKLIN.F
+# REF.NO:24900641
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
-**AIM:**
+# AIM:
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
 
@@ -27,7 +29,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 /* write all the steps invloved */
 
-**PROGRAM**
+# PROGRAM
+![Screenshot 2024-12-08 160418](https://github.com/user-attachments/assets/ad1171bf-24b2-4adc-a110-fec5fdd9a578)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
@@ -35,8 +38,11 @@ Developed by: RegisterNumber:
 
 */
 
-**RTL LOGIC FOR SISO Shift Register**
+# RTL LOGIC FOR SISO Shift Register
+![Screenshot 2024-12-08 160428](https://github.com/user-attachments/assets/3d8ac5e9-d9e3-4d0a-8caa-c66d5fd49c9c)
 
-**TIMING DIGRAMS FOR SISO Shift Register**
+# TIMING DIGRAMS FOR SISO Shift Register
+![Screenshot 2024-12-08 160442](https://github.com/user-attachments/assets/3180a5b2-43d9-49f7-b856-81782e221018)
 
-**RESULTS**
+# RESULTS
+To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
